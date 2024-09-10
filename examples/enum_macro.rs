@@ -1,4 +1,4 @@
-use template::EnumFrom;
+use macros::EnumFrom;
 
 #[allow(unused)]
 #[derive(Debug, EnumFrom)]
